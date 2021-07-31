@@ -111,8 +111,7 @@ body{
 .link:hover{
     transition-duration: 1s;
     background: cyan;
-    width: 200px;
-    height: 60px;
+    
     transform: translateX(20px);
     border-radius: 10px;
 }
