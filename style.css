@@ -8,6 +8,7 @@ body{
     min-height: 100vh;
     background: #02005c;
     z-index: -20;
+    overflow: hidden;
 }
 .icons{
     display: flex;
@@ -69,7 +70,7 @@ body{
 }
 .dashbord{
     border-radius: 20px;
-    height: 523px;
+    height: 496px;
     width: 250px;
     margin-left: 0px;
     display: flex;
